@@ -1,3 +1,4 @@
-pandas 
+pandas
 numpy
 seaborn
+-e .
